@@ -1,16 +1,17 @@
-## Hi there 👋
+## ¡Hola, soy Samuel 👋!
 
-<!--
-**samuelescYT/samuelescYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudiante de ingeniería de sistemas
+- 🚀 Me apasiona el desarrollo web, tanto el area del backend como el frontend y siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades en este campo
+- 📫 Cómo contactarme: menudesamy@gmail.com
 
-Here are some ideas to get you started:
+## 📚 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Me apasiona [tu área de interés, por ejemplo, el desarrollo web y la inteligencia artificial].
+- 🌱 Actualmente estoy aprendiendo [algo nuevo, por ejemplo, nuevas tecnologías o habilidades].
+- 💬 Pregúntame sobre [temas en los que tengas experiencia o que te interesen].
+- 📫 Cómo contactarme: [tu email o redes sociales]
+
+## 🔧 Tecnologías y herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,react,git,cpp&perline=4)](https://skillicons.dev)
+

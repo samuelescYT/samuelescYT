@@ -7,6 +7,6 @@
 ## 🔧 Tecnologías y herramientas
 
 # Frontend 🌟
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,ts,tailwind&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,ts,tailwind&perline=3)](https://skillicons.dev)
 
 
